@@ -1,0 +1,1 @@
+require('./lanche.test')

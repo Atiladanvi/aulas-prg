@@ -1,0 +1,14 @@
+{
+  "name": "math-straight",
+  "version": "0.0.0",
+  "description": "Tool to handler straights",
+  "author": "Atila Silva",
+  "homepage": "https://github.com/Atiladanvi/math-straight",
+  "copyright": "Copyright 2018 creativeLabs Atila Silva",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atiladanvi/math-straight.git"
+  },
+}
